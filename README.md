@@ -1,6 +1,6 @@
 ### Since 2010, working as a Tax Inspector and a Data Scientist at Receita Federal do Brasil (Brazil's Federal Revenue Service).
 
-Currently, I've been working daily with data analysis, using especially Python and SQL to identify people with the highest probability of have committed tax fraud or tax evasion.
+### Currently, I've been working daily with data analysis, using especially Python and SQL to identify people with the highest probability of have committed tax fraud or tax evasion.
 
 2005 - 2008: Sales Manager at Procter & Gamble (P&G), working in an embryonic way with data analysis, since one of the main tasks was to control the inventory of my customers, using a Data Warehouse and building forecasts and sales strategies, generally using spreadsheets such as Excel. I learned a lot about negotiation and customer relationships and was responsible for over US$10 million in annual sales.
 
