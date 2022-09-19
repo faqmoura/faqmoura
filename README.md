@@ -1,11 +1,20 @@
-### Hi there 👋
+### Since 2010, working as a Tax Inspector and a Data Scientist at Receita Federal do Brasil (Brazil's Federal Revenue Service).
+
+Currently, I've been working daily with data analysis, using especially Python and SQL to identify people with the highest probability of have committed tax fraud or tax evasion.
+
+2005 - 2008: Sales Manager at Procter & Gamble (P&G), working in an embryonic way with data analysis, since one of the main tasks was to control the inventory of my customers, using a Data Warehouse and building forecasts and sales strategies, generally using spreadsheets such as Excel. I learned a lot about negotiation and customer relationships and was responsible for over US$10 million in annual sales.
+
+2013 - 2016: Head of the Division responsible for the development of the internal framework of the Receita Federal do Brasil's main Business Intelligence's software. The software was mentioned by OECD in the "2022 Comparative Information on OECD and Other Advanced and Emerging Economies" (https://www.oecd-ilibrary.org/taxation/tax-administration-2022_1e797131-en).
+
+2016 - 2019: Head of regional Tax Inspection Division, having managed around 50 people (remote and local) in the period.
+
 
 <!--
 **faqmoura/faqmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
